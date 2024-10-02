@@ -1,0 +1,25 @@
+h1{
+  text-align: center;
+  font-size: 50px;
+  font-family: serif;
+}
+h2{
+  text-align: justify;
+  font-size: 32px;
+  font-family: serif;
+}
+p{
+  text-align: justify;
+  font-size: 25px;
+  font-family: serif;
+}
+a{
+  text-align: justify;
+  font-size: 25px;
+  font-family: serif;
+}
+ol{
+  text-align: justify;
+  font-size: 25px;
+  font-family: serif;
+}
